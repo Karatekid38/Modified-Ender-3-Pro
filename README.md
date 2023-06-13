@@ -1,3 +1,10 @@
 A list of modifications on my Ender 3-pro
-![image](https://github.com/Karatekid38/Impulze-3d/assets/62526473/cb645036-384f-4981-8beb-5454f8fdb379](https://media.discordapp.net/attachments/742828192330678352/1118013366850564096/20230612_230439.jpg?width=438&height=584)
-![image](https://github.com/Karatekid38/Impulze-3d/assets/62526473/cb645036-384f-4981-8beb-5454f8fdb379](https://media.discordapp.net/attachments/742828192330678352/1118013367219650600/20230612_230507.jpg?width=438&height=584)
+![20230612_230439](https://github.com/Karatekid38/Modified-Ender-3-Pro/assets/62526473/0bee9af6-594a-449b-99c7-1c2a5210b69c)
+![20230612_230507](https://github.com/Karatekid38/Modified-Ender-3-Pro/assets/62526473/8ff0db04-0941-4d76-aed2-5bc57d032e2a)
+- BTT skr mini e3 v2.0 for silent steppers and better surface quality
+- PEI build plate for more warp-prone materials
+- MicroSwiss Direct Drive exturuder for better surface quality and layer stacking
+- Dragon Phaetus HF for high speed/volumetric capabilities and better extrusion consistency
+  - Custom ABS mount for the hotend along with mounts for the heatbreak fan and part cooling fan
+- Belted Z mod for consistent layer stacking
+  - The mod interfered with the power supply, so I designed and printed custom mounts for the PSU to fit under the printer
