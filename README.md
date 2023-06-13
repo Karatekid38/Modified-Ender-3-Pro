@@ -10,3 +10,8 @@ A list of modifications on my Ender 3-pro
   - Custom ABS mount for the hotend along with mounts for the heatbreak fan and part cooling fan
 - Belted Z mod for consistent layer stacking
   - The mod interfered with the power supply, so I designed and printed custom mounts for the PSU to fit under the printer
+
+- Software changes:
+  - Klipper and MainsailOS for high speed printing, along with remote control and monitoring
+  - Using SuperSlicer for better control over the printer, and better compatibility with Klippe
+   - This all results in speeds of 150mm/s velocity and 3000mm/^s acceleration, with maintaining quility and part strength 
