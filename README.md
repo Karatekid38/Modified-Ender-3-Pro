@@ -1,5 +1,7 @@
 A list of modifications on my Ender 3-pro
+
 ![20230612_230439](https://github.com/Karatekid38/Modified-Ender-3-Pro/assets/62526473/0bee9af6-594a-449b-99c7-1c2a5210b69c)
+
 ![20230612_230507](https://github.com/Karatekid38/Modified-Ender-3-Pro/assets/62526473/8ff0db04-0941-4d76-aed2-5bc57d032e2a)
 - BTT skr mini e3 v2.0 for silent steppers and better surface quality
 - PEI build plate for more warp-prone materials
